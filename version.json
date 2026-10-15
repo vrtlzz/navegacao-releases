@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "0.7.5",
-  "apk": "apks/navegacao-0.7.5.apk",
-  "size": 46152132,
-  "sha256": "cc0cc0121064b9bfc498bd3eb4bc2f1949486ebc9c2b22b541c6813da35a14a8",
-  "notes": "Radares do OpenStreetMap atualizados todos os dias (com Wi-Fi ou dados móveis)."
+  "versionCode": 14,
+  "versionName": "0.8.0",
+  "apk": "apks/navegacao-0.8.0.apk",
+  "size": 50142347,
+  "sha256": "567c98ef86fa391a6e17aeb6316429bb8b9f1b8727ad8738aad75e087112e28e",
+  "notes": "Novo cartão Conta e pontos (a conta Google fica ativa quando o Firebase estiver configurado). Os pontos reportados podem ser apagados: tocar no ponto e depois na legenda."
 }
