@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "0.9.0",
-  "apk": "apks/navegacao-0.9.0.apk",
-  "size": 55062649,
-  "sha256": "da4a3798a3f31446d1a4aa49b7d2f5e511e6917e4281ee69d28949c813f496a0",
-  "notes": "Limites também fora de Vaud (junta sozinho o cantão por onde anda), mais estrada à vista a andar livre no mapa, e \"Enviar diagnóstico por email\" (o Claude lê-o no Gmail)."
+  "versionCode": 25,
+  "versionName": "0.9.1",
+  "apk": "apks/navegacao-0.9.1.apk",
+  "size": 50266097,
+  "sha256": "645d7cd557d27ed23155c4c2b47dff4c3275c90904e963b6128ac1032f6399bf",
+  "notes": "O cantão descobre-se sem internet: os limites passam a aparecer fora de Vaud (o cantão seguinte é descarregado antes da fronteira). Mais servidores para a descarga dos limites, e nova tentativa de 30 em 30 minutos se falhar."
 }
