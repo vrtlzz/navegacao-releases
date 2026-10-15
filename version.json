@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "0.7.2",
-  "apk": "apks/navegacao-0.7.2.apk",
-  "size": 46097672,
-  "sha256": "b3a2572e45979564da5b19c337984e45b4efecc914e6ed23f9b8f6cf4f6e0b66",
-  "notes": "Os seus radares e perigos reportados passam a ser avisados (acidentes e trânsito durante 3 horas). As instruções dizem o nome da rua com voz francesa e as abreviaturas por extenso (Ch. = Chemin, Av. = Avenue…)."
+  "versionCode": 11,
+  "versionName": "0.7.3",
+  "apk": "apks/navegacao-0.7.3.apk",
+  "size": 46118384,
+  "sha256": "b17c9f71fe1281317f3f1fc3a53da385c20302f1803a854bbddcd4c05a771e59",
+  "notes": "Dois avisos por radar (o segundo já perto). Alarme forte em excesso de velocidade perto de um radar: bips de urgência, \"Abrande!\" a cada 2,5 s e cartão vermelho. O telemóvel deixou de vibrar a cada manobra; a vibração passou a ser uma opção no cartão Navegação do ecrã principal."
 }
