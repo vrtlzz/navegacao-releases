@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.8.8",
-  "apk": "apks/navegacao-0.8.8.apk",
-  "size": 50227444,
-  "sha256": "79516d6e239eb8fd715f609e0e6c5afe63ae677413584507c042bfeb33c3a20d",
-  "notes": "Botão \"Guardar diagnóstico no Drive\" (secção Aplicação): o diagnóstico vai para o seu Google Drive e o Claude lê-o de lá, sem passar pelo chat."
+  "versionCode": 23,
+  "versionName": "0.8.9",
+  "apk": "apks/navegacao-0.8.9.apk",
+  "size": 50225228,
+  "sha256": "2fd3402d0a53556b6532356e0e54d500c4eb8356fbd92fa40a3de12af4a25b3b",
+  "notes": "A andar livre no mapa (sem destino), a velocidade, o limite e os avisos aparecem logo, sem ter de carregar em Iniciar."
 }
