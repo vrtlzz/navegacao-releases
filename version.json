@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "0.9.1",
-  "apk": "apks/navegacao-0.9.1.apk",
-  "size": 50266097,
-  "sha256": "645d7cd557d27ed23155c4c2b47dff4c3275c90904e963b6128ac1032f6399bf",
-  "notes": "O cantão descobre-se sem internet: os limites passam a aparecer fora de Vaud (o cantão seguinte é descarregado antes da fronteira). Mais servidores para a descarga dos limites, e nova tentativa de 30 em 30 minutos se falhar."
+  "versionCode": 26,
+  "versionName": "0.9.2",
+  "apk": "apks/navegacao-0.9.2.apk",
+  "size": 50286605,
+  "sha256": "899b61ccea28fe2cb480893c6a0f5bd01e8457d16ac96e27e6fc4889fb0de6be",
+  "notes": "Zoom com dois dedos sem tirar o carro do sítio (o mapa continua a seguir o carro); arrastar com um dedo mostra outras zonas e, a andar, volta ao carro após 15 s. Botão Camadas: mapa ou satélite, e trânsito. Velocidade negativa parado passa a 0."
 }
