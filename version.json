@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "0.9.5",
-  "apk": "apks/navegacao-0.9.5.apk",
-  "size": 50363677,
-  "sha256": "09cef0727fa36ba4ddb5c5a880085d305751e11bfd1fbe0388697257c5323f30",
-  "notes": "Sair do mapa a meio da viagem já não a termina: a navegação continua e está lá ao voltar (só Terminar ou a chegada a acabam). Se o Android fechar a app a meio, ao abrir o mapa pode continuar-se a viagem."
+  "versionCode": 30,
+  "versionName": "0.9.6",
+  "apk": "apks/navegacao-0.9.6.apk",
+  "size": 50404912,
+  "sha256": "6661b738cc712a6e93047ad877f207b3d38e142a0706b0067608506113a6c733",
+  "notes": "Mudar ordem: subir e descer as paragens à mão. Clientes fixos (cadeado): a ordem mais rápida não os muda de lugar. Horas de chegada com o tempo em cada cliente (10 min, ou a média medida). A app mede o tempo parado em cada cliente e mostra o resumo do dia."
 }
