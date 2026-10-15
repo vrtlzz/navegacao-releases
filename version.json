@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "0.9.3",
-  "apk": "apks/navegacao-0.9.3.apk",
-  "size": 55158888,
-  "sha256": "19595c618a7d7f9a52ee8db1c9c33b5f366e18faf7a2a024394092d33a4c04b8",
-  "notes": "Clientes: botão verde na caixa de pesquisa do mapa. Importa-se a lista copiada uma vez; depois escolhem-se os clientes de hoje e Iniciar viagem faz a viagem com eles pela ordem da lista. Aparecem também na pesquisa e no mapa. Ficam só no telemóvel."
+  "versionCode": 28,
+  "versionName": "0.9.4",
+  "apk": "apks/navegacao-0.9.4.apk",
+  "size": 50345517,
+  "sha256": "a78d500202edd1c24ee1324433dd3853254797bd995ed2337d5d74a200ebb407",
+  "notes": "Clientes guardados logo ao importar (as posições procuram-se depois, pode sair-se do ecrã). Zoom automático da app pela velocidade, mais perto antes das manobras. Barra de baixo da viagem encolhida: puxar para cima mostra as paragens e os botões. Colar a lista outra vez reordena os clientes."
 }
