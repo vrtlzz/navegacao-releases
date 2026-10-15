@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "0.6.0",
-  "apk": "apks/navegacao-0.6.0.apk",
-  "size": 50588152,
-  "sha256": "bb34129e31c42b010d706a526fcb555487de53dfcffaf666d911f2c21aa45ce3",
-  "notes": "Android Auto: mapa com a rota, próxima manobra, hora de chegada, velocidade e limite no ecrã do carro, e destino escolhido no carro ou no telemóvel. Avisos de perigos do Blitzer.de (acidentes, fim de fila, obras…). Os avisos de velocidade passam a seguir a posição da navegação, também na Simular viagem, e ligam-se sozinhos ao começar uma rota. Radares ligados por omissão para os testes. Atualizações mostram o tamanho e quanto já foi descarregado."
+  "versionCode": 8,
+  "versionName": "0.7.0",
+  "apk": "apks/navegacao-0.7.0.apk",
+  "size": 46063613,
+  "sha256": "4abcfd1a8fce10d0c1ba74c8a3b53e62ab30d7f8f76b886ecb5d1a59e8d749f0",
+  "notes": "Navegação estilo Waze no telemóvel: cartão da manobra, avisos, velocidade e limite, chegada e botão Reportar. As instruções passam a ser ditas pela voz da app (Daqui a 400 metros…, Agora…). Os pontos reportados (acidente, perigo, trânsito, radar, cliente, zona de carga) ficam só no telemóvel e aparecem no mapa. O botão de reportar da Google foi desligado; os avisos de trânsito da Google continuam. No Android Auto: velocidade e avisos no estilo novo e botão Reportar."
 }
