@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "0.8.9",
-  "apk": "apks/navegacao-0.8.9.apk",
-  "size": 50225228,
-  "sha256": "2fd3402d0a53556b6532356e0e54d500c4eb8356fbd92fa40a3de12af4a25b3b",
-  "notes": "A andar livre no mapa (sem destino), a velocidade, o limite e os avisos aparecem logo, sem ter de carregar em Iniciar."
+  "versionCode": 24,
+  "versionName": "0.9.0",
+  "apk": "apks/navegacao-0.9.0.apk",
+  "size": 55062649,
+  "sha256": "da4a3798a3f31446d1a4aa49b7d2f5e511e6917e4281ee69d28949c813f496a0",
+  "notes": "Limites também fora de Vaud (junta sozinho o cantão por onde anda), mais estrada à vista a andar livre no mapa, e \"Enviar diagnóstico por email\" (o Claude lê-o no Gmail)."
 }
