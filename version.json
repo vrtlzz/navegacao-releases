@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "0.4.0",
-  "apk": "apks/navegacao-0.4.0.apk",
-  "sha256": "ed1a448b446d50b24858917771ea5b7f6431e08ab8173b6c957b6a6d1e26f94f",
-  "notes": "Primeira versão publicada: limites de velocidade OSM de Vaud, diagnóstico exportável, atualização automática da app e avisos de radares (desligados por omissão)."
+  "versionCode": 6,
+  "versionName": "0.5.0",
+  "apk": "apks/navegacao-0.5.0.apk",
+  "sha256": "b3bb2cac7d906cf1a3930e3312cf97d8aaea16b255b86e26228870c3b2074280",
+  "notes": "Navegação passo a passo com o Navigation SDK da Google: botão Navegar, pesquisa de morada (Suíça) ou toque longo no mapa, voz, velocímetro e limite da Google, e simulação da viagem para testar em casa. APK mais pequeno (só ARM)."
 }
