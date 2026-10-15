@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "0.7.4",
-  "apk": "apks/navegacao-0.7.4.apk",
-  "size": 46219225,
-  "sha256": "c13cb1a67fc461adc6d25166db404ac5835e6ffa5c480e9ef01286ec8be4c62a",
-  "notes": "Pesquisa de destino muito mais rápida: sugestões da Google, com a distância. Todos os radares e perigos no mapa, em qualquer zona à vista, atualizados de 2 em 2 minutos. Radares do OpenStreetMap da Suíça toda."
+  "versionCode": 13,
+  "versionName": "0.7.5",
+  "apk": "apks/navegacao-0.7.5.apk",
+  "size": 46152132,
+  "sha256": "cc0cc0121064b9bfc498bd3eb4bc2f1949486ebc9c2b22b541c6813da35a14a8",
+  "notes": "Radares do OpenStreetMap atualizados todos os dias (com Wi-Fi ou dados móveis)."
 }
