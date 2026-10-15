@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "0.9.2",
-  "apk": "apks/navegacao-0.9.2.apk",
-  "size": 50286605,
-  "sha256": "899b61ccea28fe2cb480893c6a0f5bd01e8457d16ac96e27e6fc4889fb0de6be",
-  "notes": "Zoom com dois dedos sem tirar o carro do sítio (o mapa continua a seguir o carro); arrastar com um dedo mostra outras zonas e, a andar, volta ao carro após 15 s. Botão Camadas: mapa ou satélite, e trânsito. Velocidade negativa parado passa a 0."
+  "versionCode": 27,
+  "versionName": "0.9.3",
+  "apk": "apks/navegacao-0.9.3.apk",
+  "size": 55158888,
+  "sha256": "19595c618a7d7f9a52ee8db1c9c33b5f366e18faf7a2a024394092d33a4c04b8",
+  "notes": "Clientes: botão verde na caixa de pesquisa do mapa. Importa-se a lista copiada uma vez; depois escolhem-se os clientes de hoje e Iniciar viagem faz a viagem com eles pela ordem da lista. Aparecem também na pesquisa e no mapa. Ficam só no telemóvel."
 }
