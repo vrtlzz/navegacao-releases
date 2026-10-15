@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.0",
-  "apk": "apks/navegacao-0.8.0.apk",
+  "versionCode": 15,
+  "versionName": "0.8.1",
+  "apk": "apks/navegacao-0.8.1.apk",
   "size": 50142347,
-  "sha256": "567c98ef86fa391a6e17aeb6316429bb8b9f1b8727ad8738aad75e087112e28e",
-  "notes": "Novo cartão Conta e pontos (a conta Google fica ativa quando o Firebase estiver configurado). Os pontos reportados podem ser apagados: tocar no ponto e depois na legenda."
+  "sha256": "51d4551fb6cd5c1610e6b27669ab50ebbb5160e1b788808d7c5da6d4fad07580",
+  "notes": "Conta Google e pontos no Firebase ligados: no cartão \"Conta e pontos\", Entrar com a conta Google e Copiar UID. Os pontos só vão para a conta depois de publicadas as regras do Firestore com esse UID."
 }
