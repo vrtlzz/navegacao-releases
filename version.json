@@ -1,0 +1,7 @@
+{
+  "versionCode": 5,
+  "versionName": "0.4.0",
+  "apk": "apks/navegacao-0.4.0.apk",
+  "sha256": "ed1a448b446d50b24858917771ea5b7f6431e08ab8173b6c957b6a6d1e26f94f",
+  "notes": "Primeira versão publicada: limites de velocidade OSM de Vaud, diagnóstico exportável, atualização automática da app e avisos de radares (desligados por omissão)."
+}
