@@ -1,7 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "0.5.0",
-  "apk": "apks/navegacao-0.5.0.apk",
-  "sha256": "b3bb2cac7d906cf1a3930e3312cf97d8aaea16b255b86e26228870c3b2074280",
-  "notes": "Navegação passo a passo com o Navigation SDK da Google: botão Navegar, pesquisa de morada (Suíça) ou toque longo no mapa, voz, velocímetro e limite da Google, e simulação da viagem para testar em casa. APK mais pequeno (só ARM)."
+  "versionCode": 7,
+  "versionName": "0.6.0",
+  "apk": "apks/navegacao-0.6.0.apk",
+  "size": 50588152,
+  "sha256": "bb34129e31c42b010d706a526fcb555487de53dfcffaf666d911f2c21aa45ce3",
+  "notes": "Android Auto: mapa com a rota, próxima manobra, hora de chegada, velocidade e limite no ecrã do carro, e destino escolhido no carro ou no telemóvel. Avisos de perigos do Blitzer.de (acidentes, fim de fila, obras…). Os avisos de velocidade passam a seguir a posição da navegação, também na Simular viagem, e ligam-se sozinhos ao começar uma rota. Radares ligados por omissão para os testes. Atualizações mostram o tamanho e quanto já foi descarregado."
 }
