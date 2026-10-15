@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "0.8.3",
-  "apk": "apks/navegacao-0.8.3.apk",
-  "size": 50149015,
-  "sha256": "d27921c711395dbd264544e20429325b53f7920673da0411b36a395810714582",
-  "notes": "Voz das instruções só com a direção (nova opção \"Dizer o nome das ruas\" no cartão Navegação, desligada por omissão), sem repetir o nome da rua nem o \"siga em frente\". O limite volta a Automático sempre que começa uma rota."
+  "versionCode": 21,
+  "versionName": "0.8.7",
+  "apk": "apks/navegacao-0.8.7.apk",
+  "size": 50227946,
+  "sha256": "703a6f832322b6ac0d7d48a6a034ce2068f3dae85d4273483b77469e3267a93d",
+  "notes": "Viagens com várias paragens (Destino → Adicionar paragem; segue sozinha depois de 2 min parado; sugestão da ordem mais rápida), moradas fixadas na pesquisa, trânsito no mapa, voz sem \"Agora\", cartão do radar só a 500 m, e as atualizações passam a aparecer logo após a publicação."
 }
