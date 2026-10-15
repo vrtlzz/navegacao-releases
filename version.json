@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "0.8.7",
-  "apk": "apks/navegacao-0.8.7.apk",
-  "size": 50227946,
-  "sha256": "703a6f832322b6ac0d7d48a6a034ce2068f3dae85d4273483b77469e3267a93d",
-  "notes": "Viagens com várias paragens (Destino → Adicionar paragem; segue sozinha depois de 2 min parado; sugestão da ordem mais rápida), moradas fixadas na pesquisa, trânsito no mapa, voz sem \"Agora\", cartão do radar só a 500 m, e as atualizações passam a aparecer logo após a publicação."
+  "versionCode": 22,
+  "versionName": "0.8.8",
+  "apk": "apks/navegacao-0.8.8.apk",
+  "size": 50227444,
+  "sha256": "79516d6e239eb8fd715f609e0e6c5afe63ae677413584507c042bfeb33c3a20d",
+  "notes": "Botão \"Guardar diagnóstico no Drive\" (secção Aplicação): o diagnóstico vai para o seu Google Drive e o Claude lê-o de lá, sem passar pelo chat."
 }
