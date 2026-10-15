@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "0.7.1",
-  "apk": "apks/navegacao-0.7.1.apk",
-  "size": 46096747,
-  "sha256": "87e86a7dc0989624b00b332d3fb217d6259eba1433b5484b5ab468d92391ba6a",
-  "notes": "Destino com sugestões enquanto escreve, como no Google: moradas, ruas e lugares perto de si; tocar numa sugestão começa logo a rota (também no Android Auto). A atualização da app passa a estar só no cartão do topo."
+  "versionCode": 10,
+  "versionName": "0.7.2",
+  "apk": "apks/navegacao-0.7.2.apk",
+  "size": 46097672,
+  "sha256": "b3a2572e45979564da5b19c337984e45b4efecc914e6ed23f9b8f6cf4f6e0b66",
+  "notes": "Os seus radares e perigos reportados passam a ser avisados (acidentes e trânsito durante 3 horas). As instruções dizem o nome da rua com voz francesa e as abreviaturas por extenso (Ch. = Chemin, Av. = Avenue…)."
 }
