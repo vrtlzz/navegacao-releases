@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "0.9.6",
-  "apk": "apks/navegacao-0.9.6.apk",
-  "size": 50404912,
-  "sha256": "6661b738cc712a6e93047ad877f207b3d38e142a0706b0067608506113a6c733",
-  "notes": "Mudar ordem: subir e descer as paragens à mão. Clientes fixos (cadeado): a ordem mais rápida não os muda de lugar. Horas de chegada com o tempo em cada cliente (10 min, ou a média medida). A app mede o tempo parado em cada cliente e mostra o resumo do dia."
+  "versionCode": 32,
+  "versionName": "0.9.8",
+  "apk": "apks/navegacao-0.9.8.apk",
+  "size": 50509883,
+  "sha256": "93d4323c30a58ffd3b6230fea4685ca46a1569b02a6292333b87acfff68d21b4",
+  "notes": "Barra de progresso da tournée. Avisos com sons de cockpit e frases em inglês (Warning, warning). Radares: um aviso de longe (500 a 900 m), só insiste acima do limite, e radares juntos dão um aviso só (zona de radares). Novo ecrã Definições: distâncias, tempos, volume e um botão para ouvir cada aviso."
 }
